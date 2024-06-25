@@ -7,7 +7,7 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 
 📍 Basel, Switzerland<br>
 🏫 Informatikmittelschule Basel (Computer Science School)<br>
-📖 Clean Code, Kotlin in Action
+📖 Clean Code, Kotlin in Action<br>
 ❤️ Ktor, Vue
 
 ## My Skillset
