@@ -35,3 +35,10 @@ Click [here](https://github.com/user-attachments/files/15968857/Modulnotenubersi
 ╒═══════╧═══╤═══════════╤═══════════╤══════╧╧═══╤═══════════╤═══════════╤═══════════╤═══════╧════>
 2019        2020        2021        2022        2023        2024        2025        2026
 ```
+
+## Some of my Projects
+#### I have a few cool Minecraft plugins over at my discontinued GitHub account:
+- [Languify](https://github.com/Hekates/Languify), a library to make Minecraft plugins multilingual.
+- [OreBan](https://github.com/Hekates/OreBan), a plugin that adds an innovative solution to a common hacking problem on Minecraft servers.
+
+#### My current (sadly mostly school) projects can be found down below in my Pins (↓) or under my [repositories](https://github.com/timlandolt?tab=repositories).
