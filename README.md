@@ -14,6 +14,7 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 
 ```
 --------- Web -------    -- Other Languages --    ------- Tools -------
+
  HTML    ▓▓▓▓▓▓▓▓▓▓░░     Java    ▓▓▓▓▓▓▓▓░░░░     Docker  ▓▓▓▓▓▓░░░░░░
  CSS     ▓▓▓▓▓▓▓▓░░░░     Kotlin  ▓▓▓▓▓▓░░░░░░     Git     ▓▓▓▓▓░░░░░░░
  JS      ▓▓▓▓▓░░░░░░░     Python  ▓▓▓▓▓░░░░░░░
