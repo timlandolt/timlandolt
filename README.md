@@ -10,6 +10,7 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 📖 Clean Code, Kotlin in Action
 
 ## My Skillset
+
 ```
 HTML    ▓▓▓▓▓▓▓▓▓▓░░
 CSS     ▓▓▓▓▓▓▓▓░░░░
@@ -22,4 +23,15 @@ MySQL   ▓▓▓▓░░░░░░░░
 Docker  ▓▓▓▓▓▓░░░░░░
 Git     ▓▓▓▓▓░░░░░░░
 ```
+
 Click [here](https://github.com/user-attachments/files/15968857/Modulnotenubersicht_Peter_Muster.pdf "Module grades placeholder") to have a look at my module grades from school. *(placeholder)*
+
+## A short ovrview of my education
+
+```
+                  --- Niveau P ---           --- Informatiker EFZ Applikationsentwicklung ---
+              08/2019    ──>    07/2022               08/2022     ──>      07/2026
+        ┌─── Secoundary School Vogesen ────┐┌──────── Informatikmittelschule Basel ─────────┐
+╒═══════╧═══╤═══════════╤═══════════╤══════╧╧═══╤═══════════╤═══════════╤═══════════╤═══════╧════>
+2019        2020        2021        2022        2023        2024        2025        2026
+```
