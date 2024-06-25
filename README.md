@@ -8,20 +8,16 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 📍 Basel, Switzerland<br>
 🏫 Informatikmittelschule Basel (Computer Science School)<br>
 📖 Clean Code, Kotlin in Action
+❤️ Ktor, Vue
 
 ## My Skillset
 
 ```
-HTML    ▓▓▓▓▓▓▓▓▓▓░░
-CSS     ▓▓▓▓▓▓▓▓░░░░
-JS      ▓▓▓▓▓░░░░░░░
-PHP     ▓▓▓▓▓▓░░░░░░
-Java    ▓▓▓▓▓▓▓▓░░░░
-Kotlin  ▓▓▓▓▓▓░░░░░░
-Python  ▓▓▓▓▓░░░░░░░
-MySQL   ▓▓▓▓░░░░░░░░
-Docker  ▓▓▓▓▓▓░░░░░░
-Git     ▓▓▓▓▓░░░░░░░
+--------- Web -------    -- Other Languages --    ------- Tools -------
+ HTML    ▓▓▓▓▓▓▓▓▓▓░░     Java    ▓▓▓▓▓▓▓▓░░░░     Docker  ▓▓▓▓▓▓░░░░░░
+ CSS     ▓▓▓▓▓▓▓▓░░░░     Kotlin  ▓▓▓▓▓▓░░░░░░     Git     ▓▓▓▓▓░░░░░░░
+ JS      ▓▓▓▓▓░░░░░░░     Python  ▓▓▓▓▓░░░░░░░
+ PHP     ▓▓▓▓▓▓░░░░░░     MySQL   ▓▓▓▓░░░░░░░░
 ```
 
 Click [here](https://github.com/user-attachments/files/15968857/Modulnotenubersicht_Peter_Muster.pdf "Module grades placeholder") to have a look at my module grades from school. *(placeholder)*
