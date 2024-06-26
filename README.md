@@ -23,7 +23,7 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 
 Click [here](https://github.com/user-attachments/files/15968857/Modulnotenubersicht_Peter_Muster.pdf "Module grades placeholder") to have a look at my module grades from school. *(placeholder)*
 
-## A short ovrview of my education
+## A short overview of my education
 
 ```
                   --- Niveau P ---           --- Informatiker EFZ Applikationsentwicklung ---
