@@ -3,7 +3,7 @@
 
 ---
 
-I started programming by coding Minecraft plugins in Java when I was 14. From there on, I have looked into various fields. At the moment, my focus lies in web development because it's our current main focus in school. In my free time, I'm still very passionate about OOP and currently deepening my knowledge of Kotlin.
+I started programming by coding Minecraft plugins in Java when I was 14. From there on, I have looked into various fields. At the moment, my focus lies in web development because it's our current main focus in school. In my free time, I'm still very passionate about OOP and am currently deepening my knowledge of Kotlin. I really like to invest a lot of time in making good-looking designs, clean architectures, and writing readable and concise code.
 
 📍 Basel, Switzerland<br>
 🏫 Informatikmittelschule Basel (Computer Science School)<br>
@@ -17,8 +17,8 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 
  HTML    ▓▓▓▓▓▓▓▓▓▓░░     Java    ▓▓▓▓▓▓▓▓░░░░     Docker  ▓▓▓▓▓▓░░░░░░
  CSS     ▓▓▓▓▓▓▓▓░░░░     Kotlin  ▓▓▓▓▓▓░░░░░░     Git     ▓▓▓▓▓░░░░░░░
- JS      ▓▓▓▓▓░░░░░░░     Python  ▓▓▓▓▓░░░░░░░
- PHP     ▓▓▓▓▓▓░░░░░░     MySQL   ▓▓▓▓░░░░░░░░
+ JS      ▓▓▓▓▓░░░░░░░     Python  ▓▓▓▓▓░░░░░░░     Office  ▓▓▓▓▓▓▓▓▓▓░░
+ PHP     ▓▓▓▓▓▓░░░░░░     MySQL   ▓▓▓▓░░░░░░░░     Linux   ▓▓▓▓░░░░░░░░
 ```
 
 Click [here](https://github.com/user-attachments/files/15968857/Modulnotenubersicht_Peter_Muster.pdf "Module grades placeholder") to have a look at my module grades from school. *(placeholder)*
