@@ -10,7 +10,7 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 📖 Clean Code, Kotlin in Action<br>
 ❤️ Ktor, Vue
 
-## My Skillset
+## My skillset
 
 ```
 --------- Web -------    -- Other Languages --    ------- Tools -------
@@ -33,7 +33,7 @@ Click [here](https://github.com/user-attachments/files/15968857/Modulnotenubersi
 2019        2020        2021        2022        2023        2024        2025        2026
 ```
 
-## Some of my Projects
+## Some of my projects
 #### I have a few cool Minecraft plugins over at my discontinued GitHub account:
 - [Languify](https://github.com/Hekates/Languify), a library to make Minecraft plugins multilingual.
 - [OreBan](https://github.com/Hekates/OreBan), a plugin that adds an innovative solution to a common hacking problem on Minecraft servers.
