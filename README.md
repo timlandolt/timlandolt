@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Tim</h1>
-<p align="center">a <code>17 y/o</code> dev with a fable for clean software</p>
+<p align="center">an <code>18 y/o</code> dev with a fable for clean software</p>
 
 ---
 
@@ -9,19 +9,6 @@ I started programming by coding Minecraft plugins in Java when I was 14. From th
 🏫 Informatikmittelschule Basel (Computer Science School)<br>
 📖 Clean Code, Kotlin in Action<br>
 ❤️ Kotlin, Vue
-
-## My skillset
-
-```
---------- Web -------    -- Other Languages --    ------- Tools -------
-
- HTML    ▓▓▓▓▓▓▓▓▓▓░░     Java    ▓▓▓▓▓▓▓▓░░░░     Docker  ▓▓▓▓▓▓░░░░░░
- CSS     ▓▓▓▓▓▓▓▓░░░░     Kotlin  ▓▓▓▓▓▓░░░░░░     Git     ▓▓▓▓▓░░░░░░░
- JS      ▓▓▓▓▓░░░░░░░     Python  ▓▓▓▓▓░░░░░░░     Office  ▓▓▓▓▓▓▓▓▓▓░░
- PHP     ▓▓▓▓▓▓░░░░░░     MySQL   ▓▓▓▓░░░░░░░░     Linux   ▓▓▓▓░░░░░░░░
-```
-
-Click [here](https://github.com/user-attachments/files/16714526/Modulnotenubersicht.pdf) to have a look at my module grades from school.
 
 ## Some of my projects
 #### I have a few cool Minecraft plugins over at my discontinued GitHub account:
