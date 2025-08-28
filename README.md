@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Tim</h1>
-<p align="center">an <code>18 y/o</code> dev with a fable for clean software</p>
+<p align="center">an <code>18 y/o</code> dev with a keen sence for design</p>
 
 ---
 
-I started programming by coding Minecraft plugins in Java when I was 14. From there on, I have looked into various fields. At the moment, my focus lies in web development because it's our current main focus in school. In my free time, I'm still very passionate about OOP and am currently deepening my knowledge of Kotlin. I really like to invest a lot of time in making good-looking designs, clean architectures, and writing readable and concise code.
+I started programming by coding Minecraft plugins in Java when I was 14. From there on, I have looked into various fields. At the moment, my focus lies in full stack web development, as I currently work in this field. In my free time I'm passionate about everything that can be done with Kotlin (if I happen to find time alongside fencing, playing bass, and scouting).
+
 
 📍 Basel, Switzerland<br>
-🏫 Informatikmittelschule Basel (Computer Science School)<br>
 📖 Clean Code, Kotlin in Action<br>
 ❤️ Kotlin, Vue
 
