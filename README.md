@@ -3,7 +3,7 @@
 
 ---
 
-I started programming by coding Minecraft plugins in Java when I was 14. From there on, I have looked into various fields. At the moment, my focus lies in full stack web development, as I currently work in this field. In my free time I'm passionate about everything that can be done with Kotlin (if I happen to find time alongside fencing, playing bass, and scouting).
+I started programming by coding Minecraft plugins in Java when I was 14. From there on, I have looked into various fields. At the moment, my focus lies in full stack web development in the rails ecosystem, as I currently work in this field. In my free time I'm passionate about everything that can be done with Kotlin (if I happen to find time alongside fencing, playing bass, and scouting).
 
 
 📍 Basel, Switzerland<br>
